@@ -73,6 +73,7 @@
     height: 40px;
     width: 88px;
     border: none;
+    cursor: pointer;
   }
   .unlimited-text {
     position: absolute;
